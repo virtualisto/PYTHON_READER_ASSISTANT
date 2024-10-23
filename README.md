@@ -10,4 +10,4 @@ One function worth having is to return sentences with the highest number of most
 Sentences found should have the key-words converted to UPPER-CASE for ease of reading.
 Ultimately, syntax analysis of sentences identified as above shoudl provide further "gist" information.
 In particular, preposition analysis is a syntax analysis goal.
-The PYTHON_READER_ASSISTANT should be to reading of technical articles and boosk as the Coq proof assistant is to mathematics.
+The PYTHON_READER_ASSISTANT should be to reading of technical articles and books as the Coq proof assistant is to mathematics.
